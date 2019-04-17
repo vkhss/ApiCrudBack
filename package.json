@@ -1,0 +1,23 @@
+{
+  "name": "crudkoa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.7.8",
+    "cors": "^2.8.5",
+    "koa": "^2.7.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-cors": "0.0.16",
+    "koa-logger": "^3.2.0",
+    "koa-res": "^3.1.1",
+    "koa-router": "^7.4.0",
+    "mongodb": "^3.2.2",
+    "mongoose": "^5.4.20"
+  }
+}
