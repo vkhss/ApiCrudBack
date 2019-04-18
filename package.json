@@ -13,11 +13,10 @@
     "cors": "^2.8.5",
     "koa": "^2.7.0",
     "koa-bodyparser": "^4.2.1",
-    "koa-cors": "0.0.16",
     "koa-logger": "^3.2.0",
     "koa-res": "^3.1.1",
     "koa-router": "^7.4.0",
-    "mongodb": "^3.2.2",
+    "koa2-cors": "^2.0.6",
     "mongoose": "^5.4.20"
   }
 }
